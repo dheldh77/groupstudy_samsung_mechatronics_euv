@@ -15,6 +15,6 @@
 ## 🧑‍🤝‍🧑 4. Participants
 |소속|이름|관심사|역할|개인 코드|
 |------|---|---|---|---|
-|설비개발실|김준영|Server|||
+|설비개발실|김준영|Server||[study_spring](https://github.com/jyaquinas/webservice-springboot)|
 |설비개발실|김민석|Data Analysis||[study_spring](https://github.com/dheldh77/study_spring)|
 |설비개발실|박준혁|Client|||
