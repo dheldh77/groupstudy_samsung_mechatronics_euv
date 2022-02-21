@@ -17,4 +17,4 @@
 |------|---|---|---|---|
 |설비개발실|김준영|Server||[study_spring](https://github.com/jyaquinas/webservice-springboot)|
 |설비개발실|김민석|Data Analysis||[study_spring](https://github.com/dheldh77/study_spring)|
-|설비개발실|박준혁|Client|||
+|설비개발실|박준혁|Client||[study spring](https://github.com/toughhyeok/springboot2-webservice)|
