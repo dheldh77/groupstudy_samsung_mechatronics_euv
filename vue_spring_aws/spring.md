@@ -17,3 +17,4 @@
 |Date|Chapter|Attendace|
 |------|---|---|
 |2022-02-21|[~02장 스프링 부트에서 테스트 코드를 작성하자](https://github.com/dheldh77/groupstudy_samsung_mechatronics_euv/blob/master/vue_spring_aws/2022_02_21/2022_02_01.md)||
+|2022-03-03|[~03장 스프링 부트에서 JPA로 데이터베이스 다뤄보자](https://github.com/dheldh77/groupstudy_samsung_mechatronics_euv/blob/master/vue_spring_aws/2022_03_03/2022_03_03.md)||
