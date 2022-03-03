@@ -6,7 +6,7 @@
 ## :books: Index
 - [X] 1장. 인텔리제이로 스프링 부트 시작하기
 - [X] 2장. 스프링 부트에서 테스트 코드를 작성하자
-- [ ] 3장. 스프링 부트에서 JPA로 데이터베이스 다뤄보자
+- [X] 3장. 스프링 부트에서 JPA로 데이터베이스 다뤄보자
 - [ ] 4장. 머스테치로 화면 구성하기
 - [ ] 5장. 스프링 시큐리티와 OAuth 2.0으로 로그인 구현하기
 - [ ] 6장. AWS 서버 환경을 만들어보자 - AWS EC2
@@ -19,5 +19,5 @@
 # :two_men_holding_hands: Attendance
 |Date|Chapter|Attendace|
 |------|---|---|
-|2022-02-21|[~02장 스프링 부트에서 테스트 코드를 작성하자](https://github.com/dheldh77/groupstudy_samsung_mechatronics_euv/blob/master/vue_spring_aws/2022_02_21/2022_02_01.md)||
-|2022-03-03|[~03장 스프링 부트에서 JPA로 데이터베이스 다뤄보자](https://github.com/dheldh77/groupstudy_samsung_mechatronics_euv/blob/master/vue_spring_aws/2022_03_03/2022_03_03.md)||
+|2022-02-21|[~02장 스프링 부트에서 테스트 코드를 작성하자](https://github.com/dheldh77/groupstudy_samsung_mechatronics_euv/blob/master/vue_spring_aws/2022_02_21/2022_02_01.md)|김준영, 김민석, 박준혁|
+|2022-03-03|[~03장 스프링 부트에서 JPA로 데이터베이스 다뤄보자](https://github.com/dheldh77/groupstudy_samsung_mechatronics_euv/blob/master/vue_spring_aws/2022_03_03/2022_03_03.md)|김준영, 김민석, 박준혁|
