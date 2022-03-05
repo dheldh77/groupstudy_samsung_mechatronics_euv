@@ -108,3 +108,22 @@ ex) application-{profile}.propertiesapplication-local.propertiesapplication-dev.
 [https://goddaehee.tistory.com/213](https://goddaehee.tistory.com/213)
 
 [갓대희의 작은공간
+
+> 참고 준혁 yml
+```yaml
+spring:
+  jpa:
+    show_sql: true
+    properties:
+      hibernate:
+        - dialect: org.hibernate.dialect.MySQL57Dialect
+        - dialect:
+            storage_engine: innodb
+  datasource:
+    hikari:
+      jdbc-url: jdbc:h2:mem:testdb;MODE=MYSQL
+      username: sa
+  h2:
+    console:
+      enabled: true
+```
