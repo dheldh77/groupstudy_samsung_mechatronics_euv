@@ -18,3 +18,6 @@
 |설비개발실|김준영|Server||[study_spring](https://github.com/jyaquinas/webservice-springboot)||
 |설비개발실|김민석|Data Analysis||[study_spring](https://github.com/dheldh77/study_spring)||
 |설비개발실|박준혁|Client||[webservice-springboot](https://github.com/toughhyeok/springboot2-webservice)|[준혁 Notion](https://www.notion.so/Study-AWS-d16fda5f48ad43d9a27d9885412c5100)|
+
+## 📘: Reference
+- [설비연 스터디](https://github.com/dheldh77/groupstudy_samsung_mechatronics_RnD)
