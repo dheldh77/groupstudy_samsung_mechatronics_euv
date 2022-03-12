@@ -126,4 +126,5 @@ spring:
   h2:
     console:
       enabled: true
+# yaml 파일은 / 를 그대로 쓰면 Parsing Error가 발생한다. 따라서 "", ''로 감싸줘야 한다.
 ```
