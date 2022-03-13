@@ -21,4 +21,5 @@
 |------|---|---|
 |2022-02-21|[~02장 스프링 부트에서 테스트 코드를 작성하자](https://github.com/dheldh77/groupstudy_samsung_mechatronics_euv/blob/master/vue_spring_aws/2022_02_21/2022_02_01.md)|김준영, 김민석, 박준혁|
 |2022-03-03|[~03장 스프링 부트에서 JPA로 데이터베이스 다뤄보자](https://github.com/dheldh77/groupstudy_samsung_mechatronics_euv/blob/master/vue_spring_aws/2022_03_03/2022_03_03.md)|김준영, 김민석, 박준혁|
-|2022-03-10|[~04장 머스테치로 화면 구성하기](https://github.com/dheldh77/groupstudy_samsung_mechatronics_euv/blob/master/vue_spring_aws/2022_03_10/2022_03_10.md)||
+|2022-03-10|[~04장 머스테치로 화면 구성하기](https://github.com/dheldh77/groupstudy_samsung_mechatronics_euv/blob/master/vue_spring_aws/2022_03_10/2022_03_10.md)|김준영, 김민석|
+|2022-03-14|[~05장 스프링 시큐리티와 OAuth 2.0으로 로그인 기능 구현하기](https://github.com/dheldh77/groupstudy_samsung_mechatronics_euv/blob/master/vue_spring_aws/2022_03_14/2022_03_14.md)||
