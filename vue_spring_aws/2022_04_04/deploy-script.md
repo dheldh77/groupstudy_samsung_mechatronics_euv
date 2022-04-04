@@ -14,7 +14,7 @@ git pull
 
 echo "> Start building project"
 
-./gradlew jarBoot   # Use jarBoot instead of build
+./gradlew jarBoot   # --> Use jarBoot instead of build
 
 echo "> Copying build file"
 
