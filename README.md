@@ -22,3 +22,6 @@
 
 ## 📘 5. Reference
 - [설비연 스터디](https://github.com/dheldh77/groupstudy_samsung_mechatronics_RnD)
+
+## 6. Slack
+ - [Terry, Tomas, Hyeok Study](https://terry-tomas-hyeok.slack.com/)
