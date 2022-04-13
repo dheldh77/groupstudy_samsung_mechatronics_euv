@@ -4,6 +4,7 @@
 - 하나씩
 - 적어서
 - 완성해보자
+- test
 
 ## :green_book: 2. Topic
 - [스프링 부트와 AWS로 혼자 구현하는 웹 서비스](https://github.com/dheldh77/groupstudy_samsung_mechatronics_euv/blob/master/vue_spring_aws/spring.md)
