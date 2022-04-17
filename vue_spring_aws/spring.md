@@ -13,7 +13,7 @@
 - [X] 7장. AWS에 데이터베이스 환경을 만들어보자 - AWS RDS
 - [X] 8장. EC2 서버에 프로젝트를 배포해보자
 - [X] 9장. 코드가 푸시되면 자동으로 배포해보자 - Travis CI 배포 자동화
-- [ ] 10장. 24시간 365일 중단 없는 서비스를 만들자
+- [X] 10장. 24시간 365일 중단 없는 서비스를 만들자
 - [ ] 11장. 1인 개발 시 도움이 될 도구와 조언들
 
 # :two_men_holding_hands: Attendance
@@ -26,4 +26,4 @@
 |2022-03-21|[~06장 AWS 서버 환경을 만들어보자 - AWS EC2](https://github.com/dheldh77/groupstudy_samsung_mechatronics_euv/blob/master/vue_spring_aws/2022_03_21/2022_03_21.md)|김준영, 박준혁|
 |2022-03-28|[~7장 AWS에 데이터베이스 환경을 만들어보자 - AWS RDS](https://github.com/dheldh77/groupstudy_samsung_mechatronics_euv/blob/master/vue_spring_aws/2022_03_28/2022_03_28.md)|김준영, 김민석, 박준혁|
 |2022-04-07|[~9장 코드가 푸시되면 자동으로 배포해보자 - Travis CI 배포 자동화](https://github.com/dheldh77/groupstudy_samsung_mechatronics_euv/blob/master/vue_spring_aws/2022_03_28/2022_03_28.md)|김준영, 김민석, 박준혁|
-
+|2022-04-18|[~10장 24시간 365일 중단 없는 서비스를 만들자](https://github.com/dheldh77/groupstudy_samsung_mechatronics_euv/blob/master/vue_spring_aws/2022_04_18/2022_04_18.md)||
